@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MinhaCD</string>
+    <string name="etec_araras">Etec Prefeito Albertto Feres</string>
+    <string name="cd_araras">C.D Cesário Coimbra</string>
+    <string name="etec_artur_nogueira">Etec Trajano Camargo</string>
+    <string name="cd_artur_nogueira">Artur Nogueira</string>
+    <string name="cd_celio">Célio</string>
+    <string name="dev_sistemas">Dev. Sistemas</string>
+    <string name="administracao">Administração</string>
+    <string name="logistica">Logística</string>
+    <string name="marketing">Marketing</string>
+    <string name="dev_sistemas_desc">Desenvolvimento de Sistemas Web, Mobo e Desk.</string>
+    <string name="administracao_desc">Administração de empresas, recursos e pessoas.</string>
+    <string name="logistica_desc">Controle logístico de cadeia de produtos.</string>
+    <string name="marketing_desc">Desenvolvimento de campanhas publicitárias.</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer id euismod diam. Vestibulum mollis, nunc et sollicitudin vestibulum, ipsum eros malesuada risus, ac posuere dui libero non mi. Phasellus ut lorem sed dolor pretium efficitur tristique non felis. </string>
+</resources>
